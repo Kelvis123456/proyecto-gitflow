@@ -29,3 +29,14 @@ app.delete('/users/:index', (req, res) => {
 });
 
 app.listen(3000, () => console.log('Server running'));
+
+
+// login feature
+
+// validacion usuario
+
+// dashboard agregado
+
+// pago simulado
+
+// error corregido
